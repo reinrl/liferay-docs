@@ -42,7 +42,7 @@ Follow these steps to create your JavaScript widget:
 
 3.  Install the Liferay JS Generator:
 
-        npm install -g generator-liferay-js
+        npm install -g liferay-js
 
 4.  Run the generator with the command below, select the JavaScript widget you 
     want to create, and answer the prompts that follow.
